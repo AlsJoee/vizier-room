@@ -4,9 +4,9 @@
 
 A one-room palace escape where an agent, the Vizier, rearranges the traps between your attempts based on the route you took. Final project for COMS E6998 (Fall 2026).
 
-- [Initial Game Design Document](docs/GDD.md)
-- [Initial Configuration Document](docs/CONFIGURATION.md)
-- [Initial Project Plan and Risk Register](docs/PROJECT-PLAN.md)
+- [Initial Game Design Document](GDD.md)
+- [Initial Configuration Document](CONFIGURATION.md)
+- [Initial Project Plan and Risk Register](PROJECT-PLAN.md)
 
 Status: G1 concept. No code yet; the engine is ported from my midterm in the next phase.
 
